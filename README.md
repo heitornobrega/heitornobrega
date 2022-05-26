@@ -15,5 +15,9 @@ Fique à vontade para conhecer meus repositórios e conversar comigo. Se quiser 
   <img align="center" width="420px" src="https://github-readme-stats.vercel.app/api?username=heitornobrega&show_icons=true&theme=dracula" alt="heitornobrega" />
 </a>
 <a href="https://github.com/heitornobrega">
-  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitornobrega&layout=compact&theme=dracula" alt="heitornobrega" />
+  <img
+       align="center"
+       width="350px"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitornobrega&layout=compact&count_private=true" 
+       alt="heitornobrega" />
 </a>
