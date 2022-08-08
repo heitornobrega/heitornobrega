@@ -15,13 +15,13 @@ Fique à vontade para conhecer meus repositórios e conversar comigo. Se quiser 
   <img
        align="center"
        width="420px"
-       src="https://github-readme-stats.vercel.app/api?username=heitornobrega&count_private=false&show_icons=true&&layout=compact&bg_color=282a2f&title_color=D8BF26&border_color=D8BF26&text_color=FFFFFF&icon_color=D8BF26"
+       src="https://github-readme-stats.vercel.app/api?username=heitornobrega&show_icons=true&&layout=compact&bg_color=282a2f&title_color=D8BF26&border_color=D8BF26&text_color=FFFFFF&icon_color=D8BF26"
        alt="heitornobrega" />
 </a>
 <a href="https://github.com/heitornobrega">
   <img
        align="center"
        width="350px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitornobrega&count_private=false&layout=compact&bg_color=282a2f&title_color=D8BF26&border_color=D8BF26&text_color=FFFFFF" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitornobrega&layout=compact&bg_color=282a2f&title_color=D8BF26&border_color=D8BF26&text_color=FFFFFF" 
        alt="heitornobrega" />
 </a>
