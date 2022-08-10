@@ -7,7 +7,7 @@ Fique à vontade para conhecer meus repositórios e conversar comigo. Se quiser 
   <a href="https://www.linkedin.com/in/heitor-nobrega-tico" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-282A36?style=for-the-badge&logo=Linkedin&logoColor=D8BF26&link=https://www.linkedin.com/in/heitor-nobrega-tico"/>
   </a>
-   <a href="" alt="Linkedin">
+   <a href="https://heitornobrega.github.io/" alt="github">
     <img src="https://img.shields.io/badge/-Portifolio-282A36?style=for-the-badge&logo=React&logoColor=D8BF26&link="/>
   </a>
 </p>
@@ -15,13 +15,14 @@ Fique à vontade para conhecer meus repositórios e conversar comigo. Se quiser 
   <img
        align="center"
        width="420px"
-       src="https://github-readme-stats.vercel.app/api?username=heitornobrega&show_icons=true&&layout=compact&bg_color=282a2f&title_color=D8BF26&border_color=D8BF26&text_color=FFFFFF&icon_color=D8BF26"
+       src="https://github-readme-stats.vercel.app/api?username=heitornobrega&show_icons=true&count_private=false&layout=compact&bg_color=282a2f&title_color=D8BF26&border_color=D8BF26&text_color=FFFFFF&icon_color=D8BF26"
        alt="heitornobrega" />
 </a>
 <a href="https://github.com/heitornobrega">
   <img
        align="center"
        width="350px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitornobrega&layout=compact&bg_color=282a2f&title_color=D8BF26&border_color=D8BF26&text_color=FFFFFF" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitornobrega&count_private=false&layout=compact&card_width=250&bg_color=282a2f&title_color=D8BF26&border_color=D8BF26&text_color=FFFFFF" 
        alt="heitornobrega" />
 </a>
+
