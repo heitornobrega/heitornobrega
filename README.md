@@ -101,12 +101,12 @@
     align="right"
     alt="img"
     src="https://raw.githubusercontent.com/heitornobrega/heitornobrega/main/rick.gif"
-    width="650px"
+    width="65%"
     height="auto"
   />
   <a href="https://github.com/heitornobrega">
     <img
-      width="350px"
+      width="35%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitornobrega&count_private=false&layout=compact&card_width=100&bg_color=282a2f&title_color=D8BF26&border_color=D8BF26&text_color=FFFFFF"
       alt="heitornobrega"
     />
@@ -116,7 +116,7 @@
 <div>
   <a href="https://github.com/heitornobrega">
     <img
-      width="350px"
+      width="35%"
       src="https://github-readme-stats.vercel.app/api?username=heitornobrega&show_icons=true&layout=compact&card_width=100&bg_color=282a2f&title_color=D8BF26&border_color=D8BF26&text_color=FFFFFF&icon_color=D8BF26"
       alt="heitornobrega"
     />
