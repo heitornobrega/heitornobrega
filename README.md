@@ -1,13 +1,13 @@
 <h1 align="center"><b>Hello World! 👽</b></h1>
 <h2 align="center">
-  Sou estudante de desenvolvimento web full-stack apaixonado por Back End
+  Sou estudante de desenvolvimento web full-stack apaixonado por Backend
   :heart:
 </h2>
 <br />
 <p align="center">
   <a href="https://www.linkedin.com/in/heitor-nobrega-tico" alt="Linkedin">
     <img
-      src="https://img.shields.io/badge/-Linkedin-282A36?style=for-the-badge&logo=Linkedin&logoColor=D8BF26&link=https://www.linkedin.com/in/heitor-nobrega-tico"
+      src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"
     />
   </a>
   <a href="https://heitornobrega.github.io/" alt="github">
@@ -67,19 +67,19 @@
   </div>
 </div>
 <hr>
-<h2 align="center">Minhas estatísticas: 🦾</h2>
+<h1 align="center">Minhas estatísticas: 🦾</h1>
 <div>
     <img
     align="right"
     alt="img"
     src="https://raw.githubusercontent.com/heitornobrega/heitornobrega/main/rick.gif"
-    width="65%"
+    width="50%"
     height="auto"
   />
   <a href="https://github.com/heitornobrega">
     <img
-      width="35%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitornobrega&count_private=false&layout=compact&card_width=100&bg_color=282a2f&title_color=D8BF26&border_color=D8BF26&text_color=FFFFFF"
+      width="40%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitornobrega&count_private=false&layout=compact&card_width=10&bg_color=282a2f&title_color=D8BF26&border_color=D8BF26&text_color=FFFFFF"
       alt="heitornobrega"
     />
   </a>
@@ -88,8 +88,8 @@
 <div>
   <a href="https://github.com/heitornobrega">
     <img
-      width="35%"
-      src="https://github-readme-stats.vercel.app/api?username=heitornobrega&show_icons=true&layout=compact&card_width=100&bg_color=282a2f&title_color=D8BF26&border_color=D8BF26&text_color=FFFFFF&icon_color=D8BF26"
+      width="40%"
+      src="https://github-readme-stats.vercel.app/api?username=heitornobrega&show_icons=true&layout=compact&card_width=10&bg_color=282a2f&title_color=D8BF26&border_color=D8BF26&text_color=FFFFFF&icon_color=D8BF26"
       alt="heitornobrega"
     />
   </a>
