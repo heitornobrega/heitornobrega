@@ -118,4 +118,5 @@ SQL          5 hrs 39 mins   >------------------------   02.06 %
     src="https://profile-counter.glitch.me/{heitornobrega}/count.svg"
     alt="contador de visitantes"
   />
+  <p align="center">N° de visitantes</p>
 </p>
