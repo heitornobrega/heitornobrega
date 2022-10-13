@@ -10,6 +10,11 @@
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"
     />
   </a>
+    <a href="mailto:ticohex@gmail.com" alt="gmail">
+    <img
+      src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"
+    />
+  </a>
   <a href="https://heitornobrega.github.io/" alt="github">
     <img
       src="https://img.shields.io/badge/-Portifolio-282A36?style=for-the-badge&logo=React&logoColor=D8BF26&link="
