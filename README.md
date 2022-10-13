@@ -95,7 +95,7 @@
   </div>
 </div>
 <hr>
-<h2 align="center">Minhas estatísticas:</h2>
+<h2 align="center">Minhas estatísticas: 🦾</h2>
 <div>
     <img
     align="right"
@@ -139,7 +139,7 @@ SQL          5 hrs 39 mins   >------------------------   02.06 %
 <!--END_SECTION:waka-->
 </div>
 
-<h2 align="center">Você chegou somando</h2>
+<h2 align="center">Você chegou somando 👀</h2>
 
 <p align="center">
   <img
