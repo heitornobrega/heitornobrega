@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hello World! 👽</b></h1>
 <h2 align="center">
-  Sou estudante de desenvolvimento web full-stack apaixonado por Backend
+  Sou um estudante de desenvolvimento web fullstack apaixonado por Backend
   :heart:
 </h2>
 <br />
