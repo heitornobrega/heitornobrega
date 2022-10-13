@@ -20,10 +20,7 @@
   <h2 align="center">Tenho experiência com:</h2>
   <div align="center">
     <img
-      src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"
-    />
-    <img
-      src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"
+      src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"
     />
     <img
       src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
@@ -49,6 +46,9 @@
     />
     <img
       src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"
     />
   </div>
 </div>
