@@ -17,7 +17,9 @@
   </a>
   <a href="https://heitornobrega.github.io/" alt="github">
     <img
-      src="https://img.shields.io/badge/-Portifolio-282A36?style=for-the-badge&logo=React&logoColor=D8BF26&link="
+      width="auto"
+      height="60px"
+      src="https://img.shields.io/badge/-Portfólio-000000?style=flat&logo=React&logoColor=D8BF26&link="
     />
   </a>
 </p>
