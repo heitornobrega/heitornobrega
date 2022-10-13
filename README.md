@@ -15,13 +15,6 @@
       src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"
     />
   </a>
-  <a href="https://heitornobrega.github.io/" alt="github">
-    <img
-      width="auto"
-      height="60px"
-      src="https://img.shields.io/badge/-Portfólio-000000?style=flat&logo=React&logoColor=D8BF26&link="
-    />
-  </a>
 </p>
 <div>
   <h2 align="center">Tenho experiência com:</h2>
