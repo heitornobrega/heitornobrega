@@ -20,38 +20,35 @@
   <h2 align="center">Tenho experiência com:</h2>
   <div align="center">
     <img
-      src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&"
+      src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"
     />
     <img
-      src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+      src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"
     />
     <img
-      src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+      src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
     />
     <img
-      src="https://img.shields.io/badge/-JavaScript-eed718?style=for-the-badge&logo=javascript&logoColor=ffffff"
+      src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
     />
     <img
-      src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00c8ff"
+      src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"
+    />
+        <img
+      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"
+    />
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"
     />
     <img
-      src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=FFFFFF"
-    />
-    <img src="https://img.shields.io/badge/-Express.js-787878?style=for-the-badge" />
-    <img
-      src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=Node.js&logoColor=white"
+      src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"
     />
     <img
-      src="http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF"
+      src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"
     />
     <img
-      src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"
-    />
-    <img
-      src="http://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-    />
-    <img
-      src="http://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"
+      src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"
     />
   </div>
 </div>
@@ -59,38 +56,13 @@
   <h2 align="center">Estou estudando:</h2>
   <div align="center">
     <img
-      src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+      src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"
     />
     <img
-      src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+      src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"
     />
     <img
-      src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-    />
-    <img
-      src="https://img.shields.io/badge/-JavaScript-eed718?style=for-the-badge&logo=javascript&logoColor=ffffff"
-    />
-    <img
-      src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00c8ff"
-    />
-    <img
-      src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=FFFFFF"
-    />
-    <img src="https://img.shields.io/badge/-Express.js-787878?style=for-the-badge" />
-    <img
-      src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=Node.js&logoColor=white"
-    />
-    <img
-      src="http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF"
-    />
-    <img
-      src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"
-    />
-    <img
-      src="http://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-    />
-    <img
-      src="http://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"
+      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
     />
   </div>
 </div>
