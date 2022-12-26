@@ -89,22 +89,6 @@
       alt="heitornobrega"
     />
   </a>
-  <!--START_SECTION:waka-->
-
-```text
-From: 10 July 2022 - To: 24 December 2022
-
-Total Time: 406 hrs 56 mins
-
-JavaScript   239 hrs 5 mins  >>>>>>>>>>>>>>>----------   58.75 %
-TypeScript   120 hrs 8 mins  >>>>>>>------------------   29.52 %
-JSON         10 hrs 34 mins  >------------------------   02.60 %
-YAML         8 hrs 7 mins    -------------------------   01.99 %
-SQL          6 hrs 25 mins   -------------------------   01.58 %
-Other        6 hrs 23 mins   -------------------------   01.57 %
-```
-
-<!--END_SECTION:waka-->
 </div>
 
 <h2 align="center">Você chegou somando 👀</h2>
