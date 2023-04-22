@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hello World! 👽</b></h1>
 <h2 align="center">
-  Sou um estudante de desenvolvimento web fullstack.
+  I'm a FullStack developer.
 </h2>
 <br />
 <p align="center">
