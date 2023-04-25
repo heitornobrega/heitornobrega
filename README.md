@@ -16,7 +16,7 @@
   </a>
 </p>
 <div>
-  <h2 align="center">Tenho experiência com:</h2>
+  <h2 align="center">Expertise:</h2>
   <div align="center">
     <img
       src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"
@@ -49,12 +49,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"
     />
-  </div>
-</div>
-<div>
-  <h2 align="center">Estou estudando:</h2>
-  <div align="center">
-    <img
+     <img
       src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"
     />
     <img
@@ -62,8 +57,10 @@
     />
   </div>
 </div>
+<div>
+</div>
 <hr>
-<h1 align="center">Minhas estatísticas: 🦾</h1>
+<h1 align="center">Stats: 🦾</h1>
 <div>
     <img
     align="right"
@@ -91,12 +88,12 @@
   </a>
 </div>
 
-<h2 align="center">Você chegou somando 👀</h2>
+<h2 align="center">👀</h2>
 
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/{heitornobrega}/count.svg"
     alt="contador de visitantes"
   />
-  <p align="center">N° de visitantes</p>
+  <p align="center">Visitors</p>
 </p>
